@@ -4,14 +4,14 @@ import java.util.stream.Stream;
 
 public class Day005 {
 
-    private static final String GUITAR = "Guitar";
+    private static final String GUITAR = "Guitar";S
     private static final String DRUMS = "Drums";
     private static final String BASS = "Bass";
     private static final String VOCALS = "Vocals";
     private static final String KEYBOARDS = "Keyboards";
 
     public static void main(String[] args) {
-        List<BandMember> pinkFloyd = List.of(
+        List<BandMember> pinkFloyd = List.of(S
                 new BandMember("David Gilmour", GUITAR),
                 new BandMember("Roger Waters", BASS),
                 new BandMember("Richard Wright", KEYBOARDS),
@@ -44,4 +44,4 @@ public class Day005 {
 
     static record BandMember(String name, String instrument) {
     }
-}
+}S
