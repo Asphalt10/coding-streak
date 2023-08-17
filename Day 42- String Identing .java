@@ -1,6 +1,6 @@
 package com.thegreatapi.ahundreddaysofjava.day043;
 
-public class Day043 {
+public class Day042 {
 
     public static void main(String[] args) {
         var methodCode = """
